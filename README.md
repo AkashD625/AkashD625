@@ -130,9 +130,7 @@ Matriculation | **85.20% (2020)**
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AkashD625/AkashD625/output/github-contribution-grid-snake.svg" alt="snake gif"/>
-</p>
+
 
 ---
 
