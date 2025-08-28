@@ -40,6 +40,57 @@
 
 ---
 
+## 🏗️ Projects  
+
+🔹 **Vegy – Food Delivery Web App (Deployed)**  
+MERN stack | Stripe | REST APIs  
+- Built & deployed a full-stack app for ordering vegetables, meat & grains  
+- Integrated **Stripe for payments** + admin panel for orders, products & users  
+[🔗 Live Demo](https://vegy-food-delivery-app-1.onrender.com)  
+
+🔹 **AirPulse – Wireless Stethoscope Companion App**  
+React Native | Node.js | MongoDB | Bluetooth APIs | ML  
+- Real-time **heart & lung sound streaming** with secure patient management  
+- Integrated ML for **signal anomaly detection & diagnosis support**  
+[🔗 Repo](https://github.com/AkashD625/Airpulse-frontend)  
+
+🔹 **Drowsiness Detection System**  
+Python | OpenCV | dlib | scikit-learn  
+- Real-time **driver fatigue detection** via facial landmark monitoring  
+- Added **alert system** with audio + email notifications for safety  
+
+🔹 **Placementor – DBMS Mini Project**  
+Flask | SQL | XAMPP  
+- Placement tracking system with **Admin & Student modules**  
+- Hands-on DBMS integration + authentication module  
+
+---
+
+## 🧑‍💻 Experience  
+
+🔸 **Open Source Contributor – GirlScript Summer of Code (GSSoC ’24)**  
+- Implemented **voice-to-text note input** using Web Speech API in a MERN stack app  
+- Contributed via GitHub with **code reviews, bug fixes & accessibility features**  
+
+🔸 **Software Lead – AirPulse (Govt. Funded Project ₹5L)**  
+- Led development of **React Native health app** with Bluetooth stethoscope integration  
+- Deployed scalable **MERN backend** with authentication & secure patient data storage  
+
+---
+
+## 🎓 Education  
+
+📍 **Mangalore Institute Of Technology & Engineering (MITE)**  
+B.E. in Information Science and Engineering (2022 – 2026) | **CGPA: 8.20/10**  
+
+📍 **KLE’s C S Angadi PU College, Gokak**  
+Intermediate (PCMB) | **85.10% (2022)**  
+
+📍 **Shree Saraswati English Medium School, Ghatprabha**  
+Matriculation | **85.20% (2020)**  
+
+---
+
 ## 🌐 Connect With Me  
 <p align="center">
 <a href="https://instagram.com/_akash.gd" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
@@ -93,4 +144,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=AkashD625&icon=2&color=6)](https://visitcount.itsvg.in)  
 
-<!-- ✨ Crafted with ❤️ using GPRM + Custom Enhancements -->
+<!-- ✨ Crafted with ❤️ using GPRM + Resume Integration -->
