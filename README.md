@@ -1,14 +1,14 @@
-<!-- 🌟 Modernized GitHub Profile README for Akash Divate -->
+<!-- 🌟 Super-Modernized GitHub Profile README for Akash Divate -->
 
 <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Akash%20Divate&fontAlign=50&fontAlignY=40&color=gradient" />
 </p>
 
-<h3 align="center">🚀 Information Science & Engineering Student | Full-Stack Developer | Open Source Enthusiast</h3>
+<h2 align="center">🚀 Information Science & Engineering Student | Full-Stack Developer | Open Source Enthusiast</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;Open+Source+Contributor+⚡;Problem+Solver+✌;Hackathon+Enthusiast+🏆;Lifelong+Learner+📚" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+💻;Open+Source+Contributor+⚡;Problem+Solver+✌;Hackathon+Enthusiast+🏆;Lifelong+Learner+📚" alt="Typing Animation"/>
 </p>
 
 ---
@@ -18,7 +18,7 @@
 💻 Passionate about **DSA, MERN stack, and scalable systems**  
 🌱 Exploring **Cloud, Machine Learning, and Advanced System Design**  
 🤝 Open to **collaborations, hackathons, and open source projects**  
-⚡ *I love turning coffee ☕ into code and challenges into solutions!*  
+⚡ *Fun Fact → I love turning coffee ☕ into code and challenges into solutions!*  
 
 ---
 
@@ -26,17 +26,24 @@
 🖥️ **Full-Stack Development** → Scalable apps, secure APIs, dashboards, payments  
 🏥 **Healthcare Tech** → Real-time Bluetooth stethoscope app + ML anomaly detection  
 👀 **Computer Vision** → Drowsiness detection for road safety  
-🌍 **Open Source** → Contributor at **GSSoC ’24** (features, bug fixes, accessibility)  
+🌍 **Open Source** → Contributor at **GSSoC ’24**  
 🧩 **Problem Solving** → 450+ DSA problems solved across platforms  
 
 ---
 
+## 🎯 Currently Learning & Goals  
+📌 Mastering **System Design & Microservices**  
+📌 Exploring **Cloud-native apps with Docker & CI/CD**  
+📌 Applying **Machine Learning in healthcare & automation**  
+📌 Aim → Become a **Software Development Engineer (SDE)** in a product-based company  
+
+---
+
 ## 🏆 Achievements  
-✅ Solved **450+ DSA problems** (LeetCode, Codeforces, GFG)  
-🥇 **300+ problems solved** on LeetCode | Contest Rating: **1397**  
-💡 Selected for **₹5 Lakh Govt. Funding (NAIN Ideathon)** for **AirPulse** healthcare app  
-⚔️ Competitive coder → **Codeforces Rating: 767 (Newbie)**  
-🌟 Contributed to **open-source projects** used globally  
+![LeetCode Problems](https://img.shields.io/badge/LeetCode-300+_problems-orange?logo=leetcode)  
+![Contest Rating](https://img.shields.io/badge/LeetCode-Rating_1397-blue?logo=leetcode)  
+![Codeforces](https://img.shields.io/badge/Codeforces-767(Newbie)-blue?logo=codeforces)  
+![Govt Funding](https://img.shields.io/badge/NAIN-Ideathon_₹5L_success-green)  
 
 ---
 
@@ -44,59 +51,46 @@
 
 🔹 **Vegy – Food Delivery Web App (Deployed)**  
 MERN stack | Stripe | REST APIs  
-- Built & deployed a full-stack app for ordering vegetables, meat & grains  
-- Integrated **Stripe for payments** + admin panel for orders, products & users  
+- Full-stack food ordering app with **Stripe payments & Admin dashboard**  
 [🔗 Live Demo](https://vegy-food-delivery-app-1.onrender.com)  
 
-🔹 **AirPulse – Wireless Stethoscope Companion App**  
+🔹 **AirPulse – Wireless Stethoscope App (Govt. Funded ₹5L)**  
 React Native | Node.js | MongoDB | Bluetooth APIs | ML  
-- Real-time **heart & lung sound streaming** with secure patient management  
-- Integrated ML for **signal anomaly detection & diagnosis support**  
+- Real-time stethoscope data streaming + **ML-based anomaly detection**  
 [🔗 Repo](https://github.com/AkashD625/Airpulse-frontend)  
 
 🔹 **Drowsiness Detection System**  
 Python | OpenCV | dlib | scikit-learn  
-- Real-time **driver fatigue detection** via facial landmark monitoring  
-- Added **alert system** with audio + email notifications for safety  
+- **Driver fatigue detection** with **alarm + email notifications**  
 
 🔹 **Placementor – DBMS Mini Project**  
 Flask | SQL | XAMPP  
-- Placement tracking system with **Admin & Student modules**  
-- Hands-on DBMS integration + authentication module  
+- Placement tracker with **Admin & Student modules**  
 
 ---
 
 ## 🧑‍💻 Experience  
 
-🔸 **Open Source Contributor – GirlScript Summer of Code (GSSoC ’24)**  
-- Implemented **voice-to-text note input** using Web Speech API in a MERN stack app  
-- Contributed via GitHub with **code reviews, bug fixes & accessibility features**  
+🔸 **Open Source Contributor – GSSoC ’24**  
+- Built **voice-to-text note input** with Web Speech API  
+- Contributed with **bug fixes, features & accessibility**  
 
-🔸 **Software Lead – AirPulse (Govt. Funded Project ₹5L)**  
-- Led development of **React Native health app** with Bluetooth stethoscope integration  
-- Deployed scalable **MERN backend** with authentication & secure patient data storage  
+🔸 **Software Lead – AirPulse (Govt. Funded ₹5L)**  
+- Built **React Native health app** with secure MERN backend  
+- Implemented **real-time waveform display + Bluetooth integration**  
 
 ---
 
 ## 🎓 Education  
 
 📍 **Mangalore Institute Of Technology & Engineering (MITE)**  
-B.E. in Information Science and Engineering (2022 – 2026) | **CGPA: 8.20/10**  
+B.E. in ISE (2022 – 2026) | **CGPA: 8.20/10**  
 
 📍 **KLE’s C S Angadi PU College, Gokak**  
 Intermediate (PCMB) | **85.10% (2022)**  
 
 📍 **Shree Saraswati English Medium School, Ghatprabha**  
 Matriculation | **85.20% (2020)**  
-
----
-
-## 🌐 Connect With Me  
-<p align="center">
-<a href="https://instagram.com/_akash.gd" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://linkedin.com/in/akashdivate" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:divateakash21@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
 
 ---
 
@@ -142,6 +136,13 @@ Matriculation | **85.20% (2020)**
 
 ---
 
+## ✨ Daily Inspiration  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=AkashD625&icon=2&color=6)](https://visitcount.itsvg.in)  
 
-<!-- ✨ Crafted with ❤️ using GPRM + Resume Integration -->
+<!-- ✨ Crafted with ❤️ using GPRM + Resume Integration + Custom Enhancements -->
