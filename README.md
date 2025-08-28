@@ -16,7 +16,7 @@
 ## 💫 About Me  
 🎓 Pursuing **B.E. in Information Science & Engineering (2022–2026)** at MITE  
 💻 Passionate about **DSA, MERN stack, and scalable systems**  
-🌱 Exploring **Cloud, Machine Learning, and Advanced System Design**  
+🌱 Exploring **Cloud, Machine Learning, and beginner System Design**  
 🤝 Open to **collaborations, hackathons, and open source projects**  
 ⚡ *Fun Fact → I love turning coffee ☕ into code and challenges into solutions!*  
 
