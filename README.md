@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Akash%20Divate&fontAlign=50&fontAlignY=40&color=gradient" />
 </p>
 
-<h2 align="center">🚀 Information Science & Engineering Student | React Native | Full-Stack Developer | Open Source Enthusiast</h2>
+<h2 align="center">🚀 Information Science & Engineering Student | Data science | Full-Stack Developer | Open Source Enthusiast</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+💻;Open+Source+Contributor+⚡;Problem+Solver+✌;Hackathon+Enthusiast+🏆;Lifelong+Learner+📚" alt="Typing Animation"/>
